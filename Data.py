@@ -24,6 +24,9 @@ class Data:
   ├ /batch - To link more than one file
   ├ /speedtest - To test the bot server speed
   └ /broadcast - To send a broadcast message to the bot user
+  
+ 👨‍💻 Developed by </b><a href='https://t.me/killua_og'>ɢ ᴏ ᴅㅤ ᴏ ꜰㅤ ꜱ ᴘ ᴇ ᴇ ᴅ</a>
+"""
 
     close = [
         [InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data="close")]
@@ -43,8 +46,8 @@ class Data:
         ],
     ]
 
-    ABOUT = ""
-    ° Hey ᴅᴇᴀʀ
+    ABOUT = """
+   ° Hey ᴅᴇᴀʀ
 
 ᴍʏ ᴅᴀᴅᴅʏ - @AryanTeamUniverse
 ᴀɴᴅ ɪ ʙᴇʟᴏɴɢs ᴛᴏ - @TeamUniversee
