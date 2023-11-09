@@ -43,7 +43,7 @@ class Data:
         ],
     ]
 
-    ABOUT = """
+    ABOUT = ""
     ° Hey ᴅᴇᴀʀ
 
 ᴍʏ ᴅᴀᴅᴅʏ - @AryanTeamUniverse
