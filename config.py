@@ -13,10 +13,10 @@ load_dotenv("config.env")
 # Bot token dari @Botfather
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6761458034:AAHMda8294KwdAjHQOcil0HIiGHgUR7eatw") 
 # API ID Anda dari my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", ""))
+APP_ID = int(os.environ.get("APP_ID", "27515671"))
 
 # API Hash Anda dari my.telegram.org
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "8fbf2fa788fdf1ecb424229bc836ffa8")
 
 # ID Channel Database
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002036422815"))
@@ -38,8 +38,8 @@ UPSTREAM_BRANCH = os.environ.get("UPSTREAM_BRANCH", "web")
 DB_URI = os.environ.get("DATABASE_URL", "postgres://kvsdjrrj:FAbEb71nKTM_SyQuJ0HTbQBx9IXrP_Q2@floppy.db.elephantsql.com/kvsdjrrj")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001967812554"))
-FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001532325721")) 
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001893659989"))
+FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001724433116")) 
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
